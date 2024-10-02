@@ -1,4 +1,7 @@
+#MS Excel
+
 Data Analysis Project with Codebasics
+
 🎓 I recently completed an exciting data analysis assignment with Codebasics, where I deepened my skills in Power Pivot, DAX, ETL processes, and Pivot Tables.
 
 📊 A special thank you to Dhaval Patel and Hemanand Vadivel for their incredible teaching and mentorship throughout the bootcamp. Your guidance has been invaluable. 🙏
